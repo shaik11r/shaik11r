@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/nadeenshaik1" target="blank"><img src="https://img.shields.io/twitter/follow/nadeenshaik1?logo=twitter&style=for-the-badge" alt="nadeenshaik1" /></a> </p>
 
-- 💬 Ask me about **React,Node**
+- 💬 Ask me about **React,Node,DSA**
 
 - 📫 How to reach me **nadeencool11@gmail.com**
 
