@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Mern Stack<br>👯 I’m looking to collaborate on web dev<br>🌱 I’m currently learning NextJs<br>💬 Ask me about React, Node, DSA<br>⚡ Fun fact i'm noob 
+🔭 I’m currently working on Mern Stack<br>👯 I’m looking to collaborate on web dev<br>🌱 I’m currently learning NextJs<br>💬 Ask me about React, Node, DSA<br>
 
 
 ## 🌐 Socials:
